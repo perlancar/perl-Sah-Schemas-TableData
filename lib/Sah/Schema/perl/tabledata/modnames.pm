@@ -1,4 +1,4 @@
-package Sah::Schema::perl::arraydata::modnames;
+package Sah::Schema::perl::tabledata::modnames;
 
 # AUTHORITY
 # DATE
